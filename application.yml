@@ -1,6 +1,6 @@
 spring:
   application:
-    name: userServices
+    name: userServices1
 # Eureka Server Configuration
 eureka:
   client:
